@@ -1,0 +1,3 @@
+[submodule "static-snippets"]
+	path = static-snippets
+	url = https://github.com/gbarska/static-snippets
