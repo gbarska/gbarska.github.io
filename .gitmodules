@@ -1,3 +1,6 @@
 [submodule "static-snippets"]
 	path = static-snippets
 	url = https://github.com/gbarska/static-snippets
+[submodule "nooblab"]
+	path = nooblab
+	url = https://github.com/gbarska/nooblab
