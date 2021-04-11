@@ -4,3 +4,6 @@
 [submodule "nooblab"]
 	path = nooblab
 	url = https://github.com/gbarska/nooblab
+[submodule "mizu-team"]
+	path = mizu-team
+	url = https://github.com/gbarska/mizu-team
