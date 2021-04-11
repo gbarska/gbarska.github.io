@@ -7,3 +7,6 @@
 [submodule "mizu-team"]
 	path = mizu-team
 	url = https://github.com/gbarska/mizu-team
+[submodule "techy"]
+	path = techy
+	url = https://github.com/gbarska/techy
